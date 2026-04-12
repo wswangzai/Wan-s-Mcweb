@@ -2,10 +2,10 @@
 export const websiteConfig = {
   // 网站基本信息
   site: {
-    title: "晚晚服",
-    description: "欢迎来到晚晚服，探索无限可能的方块世界！",
+    title: "[PL]Perished Legacy",
+    description: "欢迎来到PL，探索无限可能的方块世界！",
     keywords: "Minecraft,服务器,我的世界,Java版,生存,创造,生电",
-    author: "晚晚服",
+    author: "[PL]Perished Legacy",
     language: "zh-CN"
   },
 
@@ -24,7 +24,7 @@ export const websiteConfig = {
         pageTitle: {
           // 主标题配置（支持打字机效果）
           mainTitle: {
-            texts: ["欢迎来到 晚晚服", "Welcome to DuskCraft"], // 多语言标题数组
+            texts: ["欢迎来到 PL", "Welcome to Perished Legacy"], // 多语言标题数组
             typewriter: {
               enabled: true, // 是否启用打字机效果
               speed: 100,    // 打字速度（毫秒）
@@ -67,7 +67,7 @@ export const websiteConfig = {
         externalUrl: "", // 外链地址（仅在external为true时生效）
         pageTitle: {
           mainTitle: {
-            texts: ["晚晚服服历程", "DCS History"],
+            texts: ["PLの历程", "DCS History"],
             typewriter: {
               enabled: true,
               speed: 100,
@@ -197,22 +197,16 @@ export const websiteConfig = {
   // 服务器配置
   server: {
     // 页面显示的服务器地址
-    displayAddress: "w-6.cc",
+    displayAddress: "Perished2026.online",
     // API请求使用的服务器地址（可以不同）
-    apiAddress: "ipv4.w-6.cc",
-    port: "25565",
-    version: "1.21.4",
+    apiAddress: "Perished2026.online",
+    port: "null",
+    version: "1.21.1",
     apiEndpoint: "https://api.mcstatus.io/v2/status/java",
   },
 
   // 页脚配置
-  footer: {
-    copyright: "© 2022-2026 晚晚服保留所有权利.",
-    customHtml: `
-      <!-- 在这里插入自定义HTML代码，比如备案信息 -->
-      <div style='display: flex; justify-content: center; align-items: center; width: 100%;'><a target='_blank' href='https://beian.miit.gov.cn/'><img src='/foot/foot-icp.svg' style='display: block;'></a></div>
-    `
-  },
+  
 
   // 排行榜配置
   leaderboard: {
@@ -329,9 +323,9 @@ export const websiteConfig = {
         title: "服务器信息",
         icon: "information",
         items: [
-          { label: "服务器类别", value: "物理机" },
-          { label: "CPU", value: "i9-13900kf" },
-          { label: "内存", value: "128GB DDR5" },  
+          { label: "服务器类别", value: "云服" },
+          { label: "CPU", value: "R9 9950X" },
+          { label: "内存", value: "8GB(暂时)" },  
           { label: "类型", value: "生存，生电，建筑" },
           { label: "最大玩家", value: "100人" },
           { label: "在线时间", value: "7X24小时" }
@@ -346,10 +340,10 @@ export const websiteConfig = {
         items: [
           { label: "IPV4网络", value: "✓" },
           { label: "IPV6网络", value: "✓" },
-          { label: "镜像服务器", value: "✓" },
+          
           { label: "双重备份", value: "✓" },
           { label: "群服互通", value: "✓" },
-          { label: "联机工具提供", value: "✓" }
+          
         ]
       },
       
@@ -359,9 +353,10 @@ export const websiteConfig = {
         title: "管理团队",
         icon: "shield-account",
         items: [
-          { label: "_YUTONG_", value: "腐竹-物理服主！" },
-          { label: "wanwan_jiean", value: "腐竹-技术和主要管理" },
-          { label: "CrazyPastor", value: "腐竹-不务正业" }
+          { label: "wccch", value: "腐竹" },
+          { label: "zuiwa", value: "管理" },
+          { label: "autimop", value: "a某-不务正业" },
+          { label: "eggggg", value: "蛋神-超绝黑奴"}
         ]
       }
     },
@@ -402,15 +397,9 @@ export const websiteConfig = {
           icon: "qqchat",
           buttonText: "加入 QQ 群",
           buttonType: "secondary",
-          url: "https://qm.qq.com/q/mVvrLcbLvU"
+          url: "https://qun.qq.com/universal-share/share?ac=1&authKey=8hQD1%2FiZ7zfqx9CFa5Rf9haxgFw8VHBbSBLzWrCZBg%2F%2FzLmAS5%2BJ72EEZCb48kpE&busi_data=eyJncm91cENvZGUiOiIxMDQ4OTIwNjE3IiwidG9rZW4iOiJ2czFoTlVnOTk1cmdiUDRTMzNESlEzYXhFeGpQdmpFUjVSd0NOK3JzUkc1dithUUdIcUtzQ2s5dDBMNWlZeFNDIiwidWluIjoiMjAyMDk0NTYyMiJ9&data=IU9nFvj-Hn6BSld-d1UkrVxnmfdT8PyDx2IGhSmSl-rWiV4h8Rnbqb9U5eZMhuhRDQP0ST7jA1tzP9Qn9pdJ4Q&svctype=4&tempid=h5_group_info"
         },
         {
-          title: "邮箱",
-          subtitle: "发送邮件联系我们",
-          icon: "email",
-          buttonText: "发送邮件",
-          buttonType: "secondary",
-          url: "mailto:me@wanfory.top"
         }
       ]
     },
