@@ -199,8 +199,8 @@ export const websiteConfig = {
     // 页面显示的服务器地址
     displayAddress: "Perished2026.online",
     // API请求使用的服务器地址（可以不同）
-    apiAddress: "Perished2026.online",
-    port: "null",
+    apiAddress: "play.simpfun.cn",
+    port: "40988",
     version: "1.21.1",
     apiEndpoint: "https://api.mcstatus.io/v2/status/java",
   },
