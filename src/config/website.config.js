@@ -67,7 +67,7 @@ export const websiteConfig = {
         externalUrl: "", // 外链地址（仅在external为true时生效）
         pageTitle: {
           mainTitle: {
-            texts: ["PLの历程", "DCS History"],
+            texts: ["PLの历程", "PL History"],
             typewriter: {
               enabled: true,
               speed: 100,
