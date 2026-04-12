@@ -206,7 +206,13 @@ export const websiteConfig = {
   },
 
   // 页脚配置
-  copyright: "© 2026 [PL]Perished Legacy",
+  footer: {
+    copyright: "© 2022-2026 PL保留所有权利.",
+    customHtml: `
+      <!-- 在这里插入自定义HTML代码，比如备案信息 -->
+      
+    `
+  },
   
 
   // 排行榜配置
