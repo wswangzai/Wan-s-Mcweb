@@ -206,9 +206,7 @@ export const websiteConfig = {
   },
 
   // 页脚配置
-  export default{
-  copyright: "© 2026 你的网站名称"
-},
+  copyright: "© 2026 [PL]Perished Legacy",
   
 
   // 排行榜配置
