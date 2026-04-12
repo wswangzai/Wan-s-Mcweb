@@ -206,6 +206,9 @@ export const websiteConfig = {
   },
 
   // 页脚配置
+  export default{
+  copyright: "© 2026 你的网站名称"
+},
   
 
   // 排行榜配置
