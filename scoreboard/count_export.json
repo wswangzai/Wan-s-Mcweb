@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-16 00:49:57",
+  "export_time": "2026-04-16 00:59:51",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -448,12 +448,5 @@
       "fzsd.module.scoreboard.display.placement_count",
       "fzsd.module.scoreboard.display.trade_count"
     ]
-  },
-  "upload_info": {
-    "upload_time": "2026-04-16 00:49:57",
-    "upload_success": false,
-    "upload_method": "github",
-    "upload_api": "GitHub: your_github_username/your_repository_name",
-    "upload_result": "检查文件状态失败：401"
   }
 }
