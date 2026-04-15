@@ -428,11 +428,17 @@ export const websiteConfig = {
       
       // 手动成员列表（当dataSource为"manual"时,或未获取到数据时生效）
       manualList: [
-        "EpiphanyEX",
-        "Bu_XiAo_Le",
-        "BIG_windows",
-        "XiaoHongya",
-        "lanbaicai01"
+        "wccch",
+        "Zuiwa",
+        "autimop",
+        "eggggg",
+        "LingYuawa",
+        "UPzuomomo2",
+        "A_MaoMao",
+        "baiqingxia",
+        "Chm",
+        "Simple009",
+        "_Liang_zhi"
       ]
     }
   },
