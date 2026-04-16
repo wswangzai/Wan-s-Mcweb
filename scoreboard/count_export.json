@@ -1,307 +1,113 @@
 {
-  "export_time": "2026-04-16 20:50:02",
+  "export_time": "2026-04-16 21:13:32",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
   "objectives": {
     "fzsd.module.scoreboard.display.activation": {
-      "display_slot": "sidebar.team.aqua",
-      "player_count": 13,
-      "player_scores": [
-        {
-          "player": "总活跃时间",
-          "score": 467
-        },
-        {
-          "player": "2",
-          "score": 60
-        },
-        {
-          "player": "1",
-          "score": 60
-        },
-        {
-          "player": "wccch",
-          "score": 58
-        },
-        {
-          "player": "_b-5",
-          "score": 55
-        },
-        {
-          "player": "_b-4",
-          "score": 52
-        },
-        {
-          "player": "_b-3",
-          "score": 49
-        },
-        {
-          "player": "_b-2",
-          "score": 46
-        },
-        {
-          "player": "_b-1",
-          "score": 43
-        },
-        {
-          "player": "eggggg",
-          "score": 17
-        },
-        {
-          "player": "3",
-          "score": 13
-        },
-        {
-          "player": "4",
-          "score": 13
-        },
-        {
-          "player": "h",
-          "score": 1
-        }
-      ],
+      "display_slot": null,
+      "player_count": 0,
+      "player_scores": [],
       "statistics": {
-        "total_players": 13,
-        "total_score": 934,
-        "average_score": 71.85,
-        "top_player": "总活跃时间",
-        "top_score": 467
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
       },
       "objective_info": {
         "RenderType": "integer",
         "Name": "fzsd.module.scoreboard.display.activation",
         "CriteriaName": "dummy",
         "display_auto_update": 0,
-        "DisplayName": "{\"text\":\"活跃时间（h）\",\"color\":\"aqua\"}"
+        "DisplayName": "\"fzsd.module.scoreboard.display.activation\""
       }
     },
     "fzsd.module.scoreboard.display.aviating_distance": {
-      "display_slot": "sidebar.team.light_purple",
-      "player_count": 6,
-      "player_scores": [
-        {
-          "player": "总飞行距离",
-          "score": 269840
-        },
-        {
-          "player": "wccch",
-          "score": 187796
-        },
-        {
-          "player": "eggggg",
-          "score": 81516
-        },
-        {
-          "player": "Simple009",
-          "score": 307
-        },
-        {
-          "player": "Zuiwa",
-          "score": 186
-        },
-        {
-          "player": "autimop",
-          "score": 35
-        }
-      ],
+      "display_slot": null,
+      "player_count": 0,
+      "player_scores": [],
       "statistics": {
-        "total_players": 6,
-        "total_score": 539680,
-        "average_score": 89946.67,
-        "top_player": "总飞行距离",
-        "top_score": 269840
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
       },
       "objective_info": {
         "RenderType": "integer",
         "Name": "fzsd.module.scoreboard.display.aviating_distance",
         "CriteriaName": "dummy",
         "display_auto_update": 0,
-        "DisplayName": "{\"text\":\"飞行距离\",\"color\":\"light_purple\"}"
+        "DisplayName": "\"fzsd.module.scoreboard.display.aviating_distance\""
       }
     },
     "fzsd.module.scoreboard.display.damage_taken": {
-      "display_slot": "sidebar.team.yellow",
-      "player_count": 16,
-      "player_scores": [
-        {
-          "player": "总受伤害数",
-          "score": 3855
-        },
-        {
-          "player": "wccch",
-          "score": 2713
-        },
-        {
-          "player": "eggggg",
-          "score": 781
-        },
-        {
-          "player": "LxHet",
-          "score": 127
-        },
-        {
-          "player": "A_MaoMao",
-          "score": 53
-        },
-        {
-          "player": "5201314llllll",
-          "score": 52
-        },
-        {
-          "player": "Zuiwa",
-          "score": 37
-        },
-        {
-          "player": "_b-3",
-          "score": 20
-        },
-        {
-          "player": "_b-4",
-          "score": 18
-        },
-        {
-          "player": "_b-1",
-          "score": 17
-        },
-        {
-          "player": "autimop",
-          "score": 14
-        },
-        {
-          "player": "_b-2",
-          "score": 8
-        },
-        {
-          "player": "UPzuomomo2",
-          "score": 6
-        },
-        {
-          "player": "_b-5",
-          "score": 5
-        },
-        {
-          "player": "Sakura_Raven",
-          "score": 2
-        },
-        {
-          "player": "Simple009",
-          "score": 2
-        }
-      ],
+      "display_slot": null,
+      "player_count": 0,
+      "player_scores": [],
       "statistics": {
-        "total_players": 16,
-        "total_score": 7710,
-        "average_score": 481.88,
-        "top_player": "总受伤害数",
-        "top_score": 3855
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
       },
       "objective_info": {
         "RenderType": "integer",
         "Name": "fzsd.module.scoreboard.display.damage_taken",
         "CriteriaName": "dummy",
         "display_auto_update": 0,
-        "DisplayName": "{\"text\":\"抖M榜\",\"color\":\"yellow\"}"
+        "DisplayName": "\"fzsd.module.scoreboard.display.damage_taken\""
       }
     },
     "fzsd.module.scoreboard.display.death_count": {
-      "display_slot": "sidebar.team.dark_red",
-      "player_count": 6,
-      "player_scores": [
-        {
-          "player": "总死亡数",
-          "score": 36
-        },
-        {
-          "player": "wccch",
-          "score": 16
-        },
-        {
-          "player": "eggggg",
-          "score": 11
-        },
-        {
-          "player": "LxHet",
-          "score": 5
-        },
-        {
-          "player": "5201314llllll",
-          "score": 2
-        },
-        {
-          "player": "A_MaoMao",
-          "score": 2
-        }
-      ],
+      "display_slot": null,
+      "player_count": 0,
+      "player_scores": [],
       "statistics": {
-        "total_players": 6,
-        "total_score": 72,
-        "average_score": 12.0,
-        "top_player": "总死亡数",
-        "top_score": 36
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
       },
       "objective_info": {
         "RenderType": "integer",
         "Name": "fzsd.module.scoreboard.display.death_count",
         "CriteriaName": "dummy",
         "display_auto_update": 0,
-        "DisplayName": "{\"text\":\"死亡榜\",\"color\":\"dark_red\"}"
+        "DisplayName": "\"fzsd.module.scoreboard.display.death_count\""
       }
     },
     "fzsd.module.scoreboard.display.dig_count": {
-      "display_slot": "sidebar.team.gray",
-      "player_count": 5,
-      "player_scores": [
-        {
-          "player": "总挖掘数",
-          "score": 85470
-        },
-        {
-          "player": "wccch",
-          "score": 58055
-        },
-        {
-          "player": "eggggg",
-          "score": 27368
-        },
-        {
-          "player": "autimop",
-          "score": 30
-        },
-        {
-          "player": "Zuiwa",
-          "score": 17
-        }
-      ],
+      "display_slot": null,
+      "player_count": 0,
+      "player_scores": [],
       "statistics": {
-        "total_players": 5,
-        "total_score": 170940,
-        "average_score": 34188.0,
-        "top_player": "总挖掘数",
-        "top_score": 85470
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
       },
       "objective_info": {
         "RenderType": "integer",
         "Name": "fzsd.module.scoreboard.display.dig_count",
         "CriteriaName": "dummy",
         "display_auto_update": 0,
-        "DisplayName": "{\"text\":\"挖掘榜\",\"color\":\"gray\"}"
+        "DisplayName": "\"fzsd.module.scoreboard.display.dig_count\""
       }
     },
     "fzsd.module.scoreboard.display.fishing_count": {
-      "display_slot": "sidebar.team.blue",
-      "player_count": 1,
-      "player_scores": [
-        {
-          "player": "总钓鱼数",
-          "score": 0
-        }
-      ],
+      "display_slot": null,
+      "player_count": 0,
+      "player_scores": [],
       "statistics": {
-        "total_players": 1,
+        "total_players": 0,
         "total_score": 0,
-        "average_score": 0.0,
-        "top_player": "总钓鱼数",
+        "average_score": 0,
+        "top_player": null,
         "top_score": 0
       },
       "objective_info": {
@@ -309,51 +115,30 @@
         "Name": "fzsd.module.scoreboard.display.fishing_count",
         "CriteriaName": "dummy",
         "display_auto_update": 0,
-        "DisplayName": "{\"text\":\"钓鱼榜\",\"color\":\"blue\"}"
+        "DisplayName": "\"fzsd.module.scoreboard.display.fishing_count\""
       }
     },
     "fzsd.module.scoreboard.display.kill_count": {
-      "display_slot": "sidebar.team.red",
-      "player_count": 5,
-      "player_scores": [
-        {
-          "player": "总击杀数",
-          "score": 3851
-        },
-        {
-          "player": "eggggg",
-          "score": 2386
-        },
-        {
-          "player": "wccch",
-          "score": 1458
-        },
-        {
-          "player": "Zuiwa",
-          "score": 5
-        },
-        {
-          "player": "Simple009",
-          "score": 2
-        }
-      ],
+      "display_slot": null,
+      "player_count": 0,
+      "player_scores": [],
       "statistics": {
-        "total_players": 5,
-        "total_score": 7702,
-        "average_score": 1540.4,
-        "top_player": "总击杀数",
-        "top_score": 3851
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
       },
       "objective_info": {
         "RenderType": "integer",
         "Name": "fzsd.module.scoreboard.display.kill_count",
         "CriteriaName": "dummy",
         "display_auto_update": 0,
-        "DisplayName": "{\"text\":\"击杀榜\",\"color\":\"red\"}"
+        "DisplayName": "\"fzsd.module.scoreboard.display.kill_count\""
       }
     },
     "fzsd.module.scoreboard.display.placement_count": {
-      "display_slot": "sidebar.team.dark_blue",
+      "display_slot": null,
       "player_count": 12,
       "player_scores": [
         {
@@ -421,19 +206,14 @@
       }
     },
     "fzsd.module.scoreboard.display.trade_count": {
-      "display_slot": "sidebar.team.dark_green",
-      "player_count": 1,
-      "player_scores": [
-        {
-          "player": "总交易数",
-          "score": 0
-        }
-      ],
+      "display_slot": null,
+      "player_count": 0,
+      "player_scores": [],
       "statistics": {
-        "total_players": 1,
+        "total_players": 0,
         "total_score": 0,
-        "average_score": 0.0,
-        "top_player": "总交易数",
+        "average_score": 0,
+        "top_player": null,
         "top_score": 0
       },
       "objective_info": {
@@ -441,12 +221,12 @@
         "Name": "fzsd.module.scoreboard.display.trade_count",
         "CriteriaName": "dummy",
         "display_auto_update": 0,
-        "DisplayName": "{\"text\":\"交易榜\",\"color\":\"dark_green\"}"
+        "DisplayName": "\"fzsd.module.scoreboard.display.trade_count\""
       }
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 65,
+    "total_players_across_objectives": 12,
     "objectives_found": [
       "fzsd.module.scoreboard.display.activation",
       "fzsd.module.scoreboard.display.aviating_distance",
