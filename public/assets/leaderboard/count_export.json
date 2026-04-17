@@ -1,72 +1,19 @@
 {
-  "export_time": "2026-04-15 23:42:33",
+  "export_time": "2026-04-17 21:50:23",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
   "objectives": {
     "fzsd.module.scoreboard.display.activation": {
       "display_slot": "sidebar.team.aqua",
-      "player_count": 13,
-      "player_scores": [
-        {
-          "player": "总活跃时间",
-          "score": 467
-        },
-        {
-          "player": "2",
-          "score": 60
-        },
-        {
-          "player": "1",
-          "score": 60
-        },
-        {
-          "player": "wccch",
-          "score": 58
-        },
-        {
-          "player": "_b-5",
-          "score": 55
-        },
-        {
-          "player": "_b-4",
-          "score": 52
-        },
-        {
-          "player": "_b-3",
-          "score": 49
-        },
-        {
-          "player": "_b-2",
-          "score": 46
-        },
-        {
-          "player": "_b-1",
-          "score": 43
-        },
-        {
-          "player": "eggggg",
-          "score": 17
-        },
-        {
-          "player": "3",
-          "score": 13
-        },
-        {
-          "player": "4",
-          "score": 13
-        },
-        {
-          "player": "h",
-          "score": 1
-        }
-      ],
+      "player_count": 0,
+      "player_scores": [],
       "statistics": {
-        "total_players": 13,
-        "total_score": 934,
-        "average_score": 71.85,
-        "top_player": "总活跃时间",
-        "top_score": 467
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
       },
       "objective_info": {
         "RenderType": "integer",
@@ -78,39 +25,14 @@
     },
     "fzsd.module.scoreboard.display.aviating_distance": {
       "display_slot": "sidebar.team.light_purple",
-      "player_count": 6,
-      "player_scores": [
-        {
-          "player": "总飞行距离",
-          "score": 186852
-        },
-        {
-          "player": "wccch",
-          "score": 104808
-        },
-        {
-          "player": "eggggg",
-          "score": 81516
-        },
-        {
-          "player": "Simple009",
-          "score": 307
-        },
-        {
-          "player": "Zuiwa",
-          "score": 186
-        },
-        {
-          "player": "autimop",
-          "score": 35
-        }
-      ],
+      "player_count": 0,
+      "player_scores": [],
       "statistics": {
-        "total_players": 6,
-        "total_score": 373704,
-        "average_score": 62284.0,
-        "top_player": "总飞行距离",
-        "top_score": 186852
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
       },
       "objective_info": {
         "RenderType": "integer",
@@ -122,79 +44,14 @@
     },
     "fzsd.module.scoreboard.display.damage_taken": {
       "display_slot": "sidebar.team.yellow",
-      "player_count": 16,
-      "player_scores": [
-        {
-          "player": "总受伤害数",
-          "score": 2652
-        },
-        {
-          "player": "wccch",
-          "score": 1510
-        },
-        {
-          "player": "eggggg",
-          "score": 781
-        },
-        {
-          "player": "LxHet",
-          "score": 127
-        },
-        {
-          "player": "A_MaoMao",
-          "score": 53
-        },
-        {
-          "player": "5201314llllll",
-          "score": 52
-        },
-        {
-          "player": "Zuiwa",
-          "score": 37
-        },
-        {
-          "player": "_b-3",
-          "score": 20
-        },
-        {
-          "player": "_b-4",
-          "score": 18
-        },
-        {
-          "player": "_b-1",
-          "score": 17
-        },
-        {
-          "player": "autimop",
-          "score": 14
-        },
-        {
-          "player": "_b-2",
-          "score": 8
-        },
-        {
-          "player": "UPzuomomo2",
-          "score": 6
-        },
-        {
-          "player": "_b-5",
-          "score": 5
-        },
-        {
-          "player": "Sakura_Raven",
-          "score": 2
-        },
-        {
-          "player": "Simple009",
-          "score": 2
-        }
-      ],
+      "player_count": 0,
+      "player_scores": [],
       "statistics": {
-        "total_players": 16,
-        "total_score": 5304,
-        "average_score": 331.5,
-        "top_player": "总受伤害数",
-        "top_score": 2652
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
       },
       "objective_info": {
         "RenderType": "integer",
@@ -206,39 +63,14 @@
     },
     "fzsd.module.scoreboard.display.death_count": {
       "display_slot": "sidebar.team.dark_red",
-      "player_count": 6,
-      "player_scores": [
-        {
-          "player": "总死亡数",
-          "score": 35
-        },
-        {
-          "player": "wccch",
-          "score": 15
-        },
-        {
-          "player": "eggggg",
-          "score": 11
-        },
-        {
-          "player": "LxHet",
-          "score": 5
-        },
-        {
-          "player": "5201314llllll",
-          "score": 2
-        },
-        {
-          "player": "A_MaoMao",
-          "score": 2
-        }
-      ],
+      "player_count": 0,
+      "player_scores": [],
       "statistics": {
-        "total_players": 6,
-        "total_score": 70,
-        "average_score": 11.67,
-        "top_player": "总死亡数",
-        "top_score": 35
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
       },
       "objective_info": {
         "RenderType": "integer",
@@ -250,35 +82,23 @@
     },
     "fzsd.module.scoreboard.display.dig_count": {
       "display_slot": "sidebar.team.gray",
-      "player_count": 5,
+      "player_count": 2,
       "player_scores": [
         {
-          "player": "总挖掘数",
-          "score": 68194
-        },
-        {
           "player": "wccch",
-          "score": 40779
+          "score": 1
         },
         {
-          "player": "eggggg",
-          "score": 27368
-        },
-        {
-          "player": "autimop",
-          "score": 30
-        },
-        {
-          "player": "Zuiwa",
-          "score": 17
+          "player": "总挖掘数",
+          "score": 1
         }
       ],
       "statistics": {
-        "total_players": 5,
-        "total_score": 136388,
-        "average_score": 27277.6,
-        "top_player": "总挖掘数",
-        "top_score": 68194
+        "total_players": 2,
+        "total_score": 2,
+        "average_score": 1.0,
+        "top_player": "wccch",
+        "top_score": 1
       },
       "objective_info": {
         "RenderType": "integer",
@@ -309,35 +129,14 @@
     },
     "fzsd.module.scoreboard.display.kill_count": {
       "display_slot": "sidebar.team.red",
-      "player_count": 5,
-      "player_scores": [
-        {
-          "player": "总击杀数",
-          "score": 3851
-        },
-        {
-          "player": "eggggg",
-          "score": 2386
-        },
-        {
-          "player": "wccch",
-          "score": 1458
-        },
-        {
-          "player": "Zuiwa",
-          "score": 5
-        },
-        {
-          "player": "Simple009",
-          "score": 2
-        }
-      ],
+      "player_count": 0,
+      "player_scores": [],
       "statistics": {
-        "total_players": 5,
-        "total_score": 7702,
-        "average_score": 1540.4,
-        "top_player": "总击杀数",
-        "top_score": 3851
+        "total_players": 0,
+        "total_score": 0,
+        "average_score": 0,
+        "top_player": null,
+        "top_score": 0
       },
       "objective_info": {
         "RenderType": "integer",
@@ -348,64 +147,24 @@
       }
     },
     "fzsd.module.scoreboard.display.placement_count": {
-      "display_slot": "sidebar.team.dark_blue",
-      "player_count": 12,
+      "display_slot": "sidebar.team.gold",
+      "player_count": 2,
       "player_scores": [
         {
-          "player": "总建造数",
-          "score": 851278
-        },
-        {
-          "player": "_b-5",
-          "score": 174227
-        },
-        {
-          "player": "_b-4",
-          "score": 167354
-        },
-        {
-          "player": "_b-3",
-          "score": 160412
-        },
-        {
-          "player": "_b-2",
-          "score": 152240
-        },
-        {
-          "player": "_b-1",
-          "score": 145584
-        },
-        {
           "player": "wccch",
-          "score": 47694
+          "score": 1
         },
         {
-          "player": "eggggg",
-          "score": 3345
-        },
-        {
-          "player": "sc",
-          "score": 313
-        },
-        {
-          "player": "Zuiwa",
-          "score": 94
-        },
-        {
-          "player": "autimop",
-          "score": 14
-        },
-        {
-          "player": "LxHet",
+          "player": "总建造数",
           "score": 1
         }
       ],
       "statistics": {
-        "total_players": 12,
-        "total_score": 1702556,
-        "average_score": 141879.67,
-        "top_player": "总建造数",
-        "top_score": 851278
+        "total_players": 2,
+        "total_score": 2,
+        "average_score": 1.0,
+        "top_player": "wccch",
+        "top_score": 1
       },
       "objective_info": {
         "RenderType": "integer",
@@ -436,7 +195,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 63,
+    "total_players_across_objectives": 4,
     "objectives_found": [
       "fzsd.module.scoreboard.display.activation",
       "fzsd.module.scoreboard.display.aviating_distance",
@@ -448,5 +207,12 @@
       "fzsd.module.scoreboard.display.placement_count",
       "fzsd.module.scoreboard.display.trade_count"
     ]
+  },
+  "upload_info": {
+    "upload_time": "2026-04-17 21:50:24",
+    "upload_success": false,
+    "upload_method": "github",
+    "upload_api": "GitHub: your_github_username/your_repository_name",
+    "upload_result": "GitHub Token 无效或已过期 (401 Unauthorized)"
   }
 }
