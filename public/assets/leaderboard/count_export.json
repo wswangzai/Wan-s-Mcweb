@@ -207,5 +207,64 @@
       "fzsd.module.scoreboard.display.placement_count",
       "fzsd.module.scoreboard.display.trade_count"
     ]
+  },
+  "upload_info": {
+    "upload_time": "2026-04-17 22:06:56",
+    "upload_success": true,
+    "upload_method": "github",
+    "upload_api": "GitHub: wswangzai/Wan-s-Mcweb",
+    "upload_result": {
+      "content": {
+        "name": "count_export.json",
+        "path": "public/assets/leaderboard/count_export.json",
+        "sha": "07893db3704675670f6ed15065292523e57982ab",
+        "size": 6389,
+        "url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/contents/public/assets/leaderboard/count_export.json?ref=main",
+        "html_url": "https://github.com/wswangzai/Wan-s-Mcweb/blob/main/public/assets/leaderboard/count_export.json",
+        "git_url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/blobs/07893db3704675670f6ed15065292523e57982ab",
+        "download_url": "https://raw.githubusercontent.com/wswangzai/Wan-s-Mcweb/main/public/assets/leaderboard/count_export.json",
+        "type": "file",
+        "_links": {
+          "self": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/contents/public/assets/leaderboard/count_export.json?ref=main",
+          "git": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/blobs/07893db3704675670f6ed15065292523e57982ab",
+          "html": "https://github.com/wswangzai/Wan-s-Mcweb/blob/main/public/assets/leaderboard/count_export.json"
+        }
+      },
+      "commit": {
+        "sha": "8ea5ef4a100c3d115cdd2743f1d326251de9ecdf",
+        "node_id": "C_kwDOSATc1toAKDhlYTVlZjRhMTAwYzNkMTE1Y2RkMjc0M2YxZDMyNjI1MWRlOWVjZGY",
+        "url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/commits/8ea5ef4a100c3d115cdd2743f1d326251de9ecdf",
+        "html_url": "https://github.com/wswangzai/Wan-s-Mcweb/commit/8ea5ef4a100c3d115cdd2743f1d326251de9ecdf",
+        "author": {
+          "name": "wswangzai",
+          "email": "137507230+wswangzai@users.noreply.github.com",
+          "date": "2026-04-17T14:06:56Z"
+        },
+        "committer": {
+          "name": "wswangzai",
+          "email": "137507230+wswangzai@users.noreply.github.com",
+          "date": "2026-04-17T14:06:56Z"
+        },
+        "tree": {
+          "sha": "b2238c545197727418320499abf1ebf70841ceab",
+          "url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/trees/b2238c545197727418320499abf1ebf70841ceab"
+        },
+        "message": "Update scoreboard data - 2026-04-17 22:06:55",
+        "parents": [
+          {
+            "sha": "4d722bdc08772d257281d3d260cc6c256f17e48c",
+            "url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/commits/4d722bdc08772d257281d3d260cc6c256f17e48c",
+            "html_url": "https://github.com/wswangzai/Wan-s-Mcweb/commit/4d722bdc08772d257281d3d260cc6c256f17e48c"
+          }
+        ],
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      }
+    }
   }
 }
