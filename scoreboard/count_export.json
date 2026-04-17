@@ -1,11 +1,11 @@
 {
-  "export_time": "2026-04-16 21:13:32",
+  "export_time": "2026-04-17 21:14:13",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
   "objectives": {
     "fzsd.module.scoreboard.display.activation": {
-      "display_slot": null,
+      "display_slot": "sidebar.team.aqua",
       "player_count": 0,
       "player_scores": [],
       "statistics": {
@@ -20,11 +20,11 @@
         "Name": "fzsd.module.scoreboard.display.activation",
         "CriteriaName": "dummy",
         "display_auto_update": 0,
-        "DisplayName": "\"fzsd.module.scoreboard.display.activation\""
+        "DisplayName": "{\"text\":\"活跃时间（h）\",\"color\":\"aqua\"}"
       }
     },
     "fzsd.module.scoreboard.display.aviating_distance": {
-      "display_slot": null,
+      "display_slot": "sidebar.team.light_purple",
       "player_count": 0,
       "player_scores": [],
       "statistics": {
@@ -39,11 +39,11 @@
         "Name": "fzsd.module.scoreboard.display.aviating_distance",
         "CriteriaName": "dummy",
         "display_auto_update": 0,
-        "DisplayName": "\"fzsd.module.scoreboard.display.aviating_distance\""
+        "DisplayName": "{\"text\":\"飞行距离\",\"color\":\"light_purple\"}"
       }
     },
     "fzsd.module.scoreboard.display.damage_taken": {
-      "display_slot": null,
+      "display_slot": "sidebar.team.yellow",
       "player_count": 0,
       "player_scores": [],
       "statistics": {
@@ -58,11 +58,11 @@
         "Name": "fzsd.module.scoreboard.display.damage_taken",
         "CriteriaName": "dummy",
         "display_auto_update": 0,
-        "DisplayName": "\"fzsd.module.scoreboard.display.damage_taken\""
+        "DisplayName": "{\"text\":\"抖M榜\",\"color\":\"yellow\"}"
       }
     },
     "fzsd.module.scoreboard.display.death_count": {
-      "display_slot": null,
+      "display_slot": "sidebar.team.dark_red",
       "player_count": 0,
       "player_scores": [],
       "statistics": {
@@ -77,30 +77,39 @@
         "Name": "fzsd.module.scoreboard.display.death_count",
         "CriteriaName": "dummy",
         "display_auto_update": 0,
-        "DisplayName": "\"fzsd.module.scoreboard.display.death_count\""
+        "DisplayName": "{\"text\":\"死亡榜\",\"color\":\"dark_red\"}"
       }
     },
     "fzsd.module.scoreboard.display.dig_count": {
-      "display_slot": null,
-      "player_count": 0,
-      "player_scores": [],
+      "display_slot": "sidebar.team.gray",
+      "player_count": 2,
+      "player_scores": [
+        {
+          "player": "wccch",
+          "score": 1
+        },
+        {
+          "player": "总挖掘数",
+          "score": 1
+        }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 2,
+        "total_score": 2,
+        "average_score": 1.0,
+        "top_player": "wccch",
+        "top_score": 1
       },
       "objective_info": {
         "RenderType": "integer",
         "Name": "fzsd.module.scoreboard.display.dig_count",
         "CriteriaName": "dummy",
         "display_auto_update": 0,
-        "DisplayName": "\"fzsd.module.scoreboard.display.dig_count\""
+        "DisplayName": "{\"text\":\"挖掘榜\",\"color\":\"gray\"}"
       }
     },
     "fzsd.module.scoreboard.display.fishing_count": {
-      "display_slot": null,
+      "display_slot": "sidebar.team.blue",
       "player_count": 0,
       "player_scores": [],
       "statistics": {
@@ -115,11 +124,11 @@
         "Name": "fzsd.module.scoreboard.display.fishing_count",
         "CriteriaName": "dummy",
         "display_auto_update": 0,
-        "DisplayName": "\"fzsd.module.scoreboard.display.fishing_count\""
+        "DisplayName": "{\"text\":\"钓鱼榜\",\"color\":\"blue\"}"
       }
     },
     "fzsd.module.scoreboard.display.kill_count": {
-      "display_slot": null,
+      "display_slot": "sidebar.team.red",
       "player_count": 0,
       "player_scores": [],
       "statistics": {
@@ -134,68 +143,28 @@
         "Name": "fzsd.module.scoreboard.display.kill_count",
         "CriteriaName": "dummy",
         "display_auto_update": 0,
-        "DisplayName": "\"fzsd.module.scoreboard.display.kill_count\""
+        "DisplayName": "{\"text\":\"击杀榜\",\"color\":\"red\"}"
       }
     },
     "fzsd.module.scoreboard.display.placement_count": {
-      "display_slot": null,
-      "player_count": 12,
+      "display_slot": "sidebar.team.gold",
+      "player_count": 2,
       "player_scores": [
         {
-          "player": "总建造数",
-          "score": 851278
-        },
-        {
-          "player": "_b-5",
-          "score": 174227
-        },
-        {
-          "player": "_b-4",
-          "score": 167354
-        },
-        {
-          "player": "_b-3",
-          "score": 160412
-        },
-        {
-          "player": "_b-2",
-          "score": 152240
-        },
-        {
-          "player": "_b-1",
-          "score": 145584
-        },
-        {
           "player": "wccch",
-          "score": 47694
+          "score": 1
         },
         {
-          "player": "eggggg",
-          "score": 3345
-        },
-        {
-          "player": "sc",
-          "score": 313
-        },
-        {
-          "player": "Zuiwa",
-          "score": 94
-        },
-        {
-          "player": "autimop",
-          "score": 14
-        },
-        {
-          "player": "LxHet",
+          "player": "总建造数",
           "score": 1
         }
       ],
       "statistics": {
-        "total_players": 12,
-        "total_score": 1702556,
-        "average_score": 141879.67,
-        "top_player": "总建造数",
-        "top_score": 851278
+        "total_players": 2,
+        "total_score": 2,
+        "average_score": 1.0,
+        "top_player": "wccch",
+        "top_score": 1
       },
       "objective_info": {
         "RenderType": "integer",
@@ -206,7 +175,7 @@
       }
     },
     "fzsd.module.scoreboard.display.trade_count": {
-      "display_slot": null,
+      "display_slot": "sidebar.team.dark_green",
       "player_count": 0,
       "player_scores": [],
       "statistics": {
@@ -221,12 +190,12 @@
         "Name": "fzsd.module.scoreboard.display.trade_count",
         "CriteriaName": "dummy",
         "display_auto_update": 0,
-        "DisplayName": "\"fzsd.module.scoreboard.display.trade_count\""
+        "DisplayName": "{\"text\":\"交易榜\",\"color\":\"dark_green\"}"
       }
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 12,
+    "total_players_across_objectives": 4,
     "objectives_found": [
       "fzsd.module.scoreboard.display.activation",
       "fzsd.module.scoreboard.display.aviating_distance",
@@ -238,64 +207,5 @@
       "fzsd.module.scoreboard.display.placement_count",
       "fzsd.module.scoreboard.display.trade_count"
     ]
-  },
-  "upload_info": {
-    "upload_time": "2026-04-16 21:13:37",
-    "upload_success": true,
-    "upload_method": "github",
-    "upload_api": "GitHub: wswangzai/Wan-s-Mcweb",
-    "upload_result": {
-      "content": {
-        "name": "count_export.json",
-        "path": "scoreboard/count_export.json",
-        "sha": "6d13e177f2e4f4d97e488ac0545d50d1b2b34d7d",
-        "size": 6847,
-        "url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/contents/scoreboard/count_export.json?ref=main",
-        "html_url": "https://github.com/wswangzai/Wan-s-Mcweb/blob/main/scoreboard/count_export.json",
-        "git_url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/blobs/6d13e177f2e4f4d97e488ac0545d50d1b2b34d7d",
-        "download_url": "https://raw.githubusercontent.com/wswangzai/Wan-s-Mcweb/main/scoreboard/count_export.json",
-        "type": "file",
-        "_links": {
-          "self": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/contents/scoreboard/count_export.json?ref=main",
-          "git": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/blobs/6d13e177f2e4f4d97e488ac0545d50d1b2b34d7d",
-          "html": "https://github.com/wswangzai/Wan-s-Mcweb/blob/main/scoreboard/count_export.json"
-        }
-      },
-      "commit": {
-        "sha": "b0f9469baaa09da19911cf1adf21b3fd97373451",
-        "node_id": "C_kwDOSATc1toAKGIwZjk0NjliYWFhMDlkYTE5OTExY2YxYWRmMjFiM2ZkOTczNzM0NTE",
-        "url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/commits/b0f9469baaa09da19911cf1adf21b3fd97373451",
-        "html_url": "https://github.com/wswangzai/Wan-s-Mcweb/commit/b0f9469baaa09da19911cf1adf21b3fd97373451",
-        "author": {
-          "name": "wswangzai",
-          "email": "137507230+wswangzai@users.noreply.github.com",
-          "date": "2026-04-16T13:13:36Z"
-        },
-        "committer": {
-          "name": "wswangzai",
-          "email": "137507230+wswangzai@users.noreply.github.com",
-          "date": "2026-04-16T13:13:36Z"
-        },
-        "tree": {
-          "sha": "b6ad58738f26fb32384de05bc5bd00c2ed0d2971",
-          "url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/trees/b6ad58738f26fb32384de05bc5bd00c2ed0d2971"
-        },
-        "message": "Update scoreboard data - 2026-04-16 21:13:35",
-        "parents": [
-          {
-            "sha": "eead884fc9c3c79e244190d16db6d889be72b5c2",
-            "url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/commits/eead884fc9c3c79e244190d16db6d889be72b5c2",
-            "html_url": "https://github.com/wswangzai/Wan-s-Mcweb/commit/eead884fc9c3c79e244190d16db6d889be72b5c2"
-          }
-        ],
-        "verification": {
-          "verified": false,
-          "reason": "unsigned",
-          "signature": null,
-          "payload": null,
-          "verified_at": null
-        }
-      }
-    }
   }
 }
