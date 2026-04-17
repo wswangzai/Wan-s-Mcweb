@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-17 21:50:23",
+  "export_time": "2026-04-17 22:06:54",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -207,12 +207,5 @@
       "fzsd.module.scoreboard.display.placement_count",
       "fzsd.module.scoreboard.display.trade_count"
     ]
-  },
-  "upload_info": {
-    "upload_time": "2026-04-17 21:50:24",
-    "upload_success": false,
-    "upload_method": "github",
-    "upload_api": "GitHub: your_github_username/your_repository_name",
-    "upload_result": "GitHub Token 无效或已过期 (401 Unauthorized)"
   }
 }
