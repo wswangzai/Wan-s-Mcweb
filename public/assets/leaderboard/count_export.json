@@ -1,28 +1,40 @@
 {
-  "export_time": "2026-04-18 07:52:55",
+  "export_time": "2026-04-18 09:50:26",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
   "objectives": {
     "fzsd.module.scoreboard.display.activation": {
       "display_slot": "sidebar.team.aqua",
-      "player_count": 2,
+      "player_count": 5,
       "player_scores": [
+        {
+          "player": "总活跃时间",
+          "score": 4
+        },
+        {
+          "player": "eggggg",
+          "score": 1
+        },
         {
           "player": "wccch",
           "score": 1
         },
         {
-          "player": "总活跃时间",
+          "player": "qwzrt",
+          "score": 1
+        },
+        {
+          "player": "Qyb",
           "score": 1
         }
       ],
       "statistics": {
-        "total_players": 2,
-        "total_score": 2,
-        "average_score": 1.0,
-        "top_player": "wccch",
-        "top_score": 1
+        "total_players": 5,
+        "total_score": 8,
+        "average_score": 1.6,
+        "top_player": "总活跃时间",
+        "top_score": 4
       },
       "objective_info": {
         "RenderType": "integer",
@@ -38,23 +50,23 @@
       "player_scores": [
         {
           "player": "总飞行距离",
-          "score": 2261
+          "score": 10385
         },
         {
           "player": "wccch",
-          "score": 1457
+          "score": 5276
         },
         {
           "player": "eggggg",
-          "score": 804
+          "score": 5109
         }
       ],
       "statistics": {
         "total_players": 3,
-        "total_score": 4522,
-        "average_score": 1507.33,
+        "total_score": 20770,
+        "average_score": 6923.33,
         "top_player": "总飞行距离",
-        "top_score": 2261
+        "top_score": 10385
       },
       "objective_info": {
         "RenderType": "integer",
@@ -70,23 +82,23 @@
       "player_scores": [
         {
           "player": "总受伤害数",
-          "score": 119
+          "score": 218
         },
         {
           "player": "eggggg",
-          "score": 79
+          "score": 139
         },
         {
           "player": "wccch",
-          "score": 40
+          "score": 79
         }
       ],
       "statistics": {
         "total_players": 3,
-        "total_score": 238,
-        "average_score": 79.33,
+        "total_score": 436,
+        "average_score": 145.33,
         "top_player": "总受伤害数",
-        "top_score": 119
+        "top_score": 218
       },
       "objective_info": {
         "RenderType": "integer",
@@ -102,23 +114,23 @@
       "player_scores": [
         {
           "player": "总死亡数",
-          "score": 2
+          "score": 4
         },
         {
           "player": "eggggg",
-          "score": 1
+          "score": 2
         },
         {
           "player": "wccch",
-          "score": 1
+          "score": 2
         }
       ],
       "statistics": {
         "total_players": 3,
-        "total_score": 4,
-        "average_score": 1.33,
+        "total_score": 8,
+        "average_score": 2.67,
         "top_player": "总死亡数",
-        "top_score": 2
+        "top_score": 4
       },
       "objective_info": {
         "RenderType": "integer",
@@ -130,23 +142,27 @@
     },
     "fzsd.module.scoreboard.display.dig_count": {
       "display_slot": "sidebar.team.gray",
-      "player_count": 2,
+      "player_count": 3,
       "player_scores": [
         {
-          "player": "wccch",
-          "score": 104
+          "player": "总挖掘数",
+          "score": 1634
         },
         {
-          "player": "总挖掘数",
-          "score": 104
+          "player": "eggggg",
+          "score": 1252
+        },
+        {
+          "player": "wccch",
+          "score": 382
         }
       ],
       "statistics": {
-        "total_players": 2,
-        "total_score": 208,
-        "average_score": 104.0,
-        "top_player": "wccch",
-        "top_score": 104
+        "total_players": 3,
+        "total_score": 3268,
+        "average_score": 1089.33,
+        "top_player": "总挖掘数",
+        "top_score": 1634
       },
       "objective_info": {
         "RenderType": "integer",
@@ -186,7 +202,7 @@
       "player_scores": [
         {
           "player": "总击杀数",
-          "score": 45
+          "score": 46
         },
         {
           "player": "eggggg",
@@ -194,15 +210,15 @@
         },
         {
           "player": "wccch",
-          "score": 1
+          "score": 2
         }
       ],
       "statistics": {
         "total_players": 3,
-        "total_score": 90,
-        "average_score": 30.0,
+        "total_score": 92,
+        "average_score": 30.67,
         "top_player": "总击杀数",
-        "top_score": 45
+        "top_score": 46
       },
       "objective_info": {
         "RenderType": "integer",
@@ -214,23 +230,27 @@
     },
     "fzsd.module.scoreboard.display.placement_count": {
       "display_slot": "sidebar.team.dark_blue",
-      "player_count": 2,
+      "player_count": 3,
       "player_scores": [
         {
-          "player": "wccch",
-          "score": 97
+          "player": "总建造数",
+          "score": 3140
         },
         {
-          "player": "总建造数",
-          "score": 97
+          "player": "eggggg",
+          "score": 2763
+        },
+        {
+          "player": "wccch",
+          "score": 377
         }
       ],
       "statistics": {
-        "total_players": 2,
-        "total_score": 194,
-        "average_score": 97.0,
-        "top_player": "wccch",
-        "top_score": 97
+        "total_players": 3,
+        "total_score": 6280,
+        "average_score": 2093.33,
+        "top_player": "总建造数",
+        "top_score": 3140
       },
       "objective_info": {
         "RenderType": "integer",
@@ -266,7 +286,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 20,
+    "total_players_across_objectives": 25,
     "objectives_found": [
       "fzsd.module.scoreboard.display.activation",
       "fzsd.module.scoreboard.display.aviating_distance",
@@ -278,64 +298,5 @@
       "fzsd.module.scoreboard.display.placement_count",
       "fzsd.module.scoreboard.display.trade_count"
     ]
-  },
-  "upload_info": {
-    "upload_time": "2026-04-18 07:52:57",
-    "upload_success": true,
-    "upload_method": "github",
-    "upload_api": "GitHub: wswangzai/Wan-s-Mcweb",
-    "upload_result": {
-      "content": {
-        "name": "count_export.json",
-        "path": "public/assets/leaderboard/count_export.json",
-        "sha": "494872f8c9f109711b2f56ab0aae3c2969682f65",
-        "size": 7768,
-        "url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/contents/public/assets/leaderboard/count_export.json?ref=main",
-        "html_url": "https://github.com/wswangzai/Wan-s-Mcweb/blob/main/public/assets/leaderboard/count_export.json",
-        "git_url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/blobs/494872f8c9f109711b2f56ab0aae3c2969682f65",
-        "download_url": "https://raw.githubusercontent.com/wswangzai/Wan-s-Mcweb/main/public/assets/leaderboard/count_export.json",
-        "type": "file",
-        "_links": {
-          "self": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/contents/public/assets/leaderboard/count_export.json?ref=main",
-          "git": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/blobs/494872f8c9f109711b2f56ab0aae3c2969682f65",
-          "html": "https://github.com/wswangzai/Wan-s-Mcweb/blob/main/public/assets/leaderboard/count_export.json"
-        }
-      },
-      "commit": {
-        "sha": "9dbce4c3b4c236060f32f5d15a7851c22eb82a80",
-        "node_id": "C_kwDOSATc1toAKDlkYmNlNGMzYjRjMjM2MDYwZjMyZjVkMTVhNzg1MWMyMmViODJhODA",
-        "url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/commits/9dbce4c3b4c236060f32f5d15a7851c22eb82a80",
-        "html_url": "https://github.com/wswangzai/Wan-s-Mcweb/commit/9dbce4c3b4c236060f32f5d15a7851c22eb82a80",
-        "author": {
-          "name": "wswangzai",
-          "email": "137507230+wswangzai@users.noreply.github.com",
-          "date": "2026-04-17T23:52:56Z"
-        },
-        "committer": {
-          "name": "wswangzai",
-          "email": "137507230+wswangzai@users.noreply.github.com",
-          "date": "2026-04-17T23:52:56Z"
-        },
-        "tree": {
-          "sha": "5b754f906e9b8f5d07a46d4f0fd1279764e5eb1d",
-          "url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/trees/5b754f906e9b8f5d07a46d4f0fd1279764e5eb1d"
-        },
-        "message": "Update scoreboard data - 2026-04-18 07:52:56",
-        "parents": [
-          {
-            "sha": "0d7a4472462474401bf2f103a2e382e5891c5456",
-            "url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/commits/0d7a4472462474401bf2f103a2e382e5891c5456",
-            "html_url": "https://github.com/wswangzai/Wan-s-Mcweb/commit/0d7a4472462474401bf2f103a2e382e5891c5456"
-          }
-        ],
-        "verification": {
-          "verified": false,
-          "reason": "unsigned",
-          "signature": null,
-          "payload": null,
-          "verified_at": null
-        }
-      }
-    }
   }
 }
