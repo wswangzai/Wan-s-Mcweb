@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-19 03:51:02",
+  "export_time": "2026-04-19 06:51:06",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -10,15 +10,15 @@
       "player_scores": [
         {
           "player": "总活跃时间",
-          "score": 40
+          "score": 46
         },
         {
           "player": "qwzrt",
-          "score": 19
+          "score": 22
         },
         {
           "player": "Qyb",
-          "score": 19
+          "score": 22
         },
         {
           "player": "eggggg",
@@ -31,10 +31,10 @@
       ],
       "statistics": {
         "total_players": 5,
-        "total_score": 80,
-        "average_score": 16.0,
+        "total_score": 92,
+        "average_score": 18.4,
         "top_player": "总活跃时间",
-        "top_score": 40
+        "top_score": 46
       },
       "objective_info": {
         "RenderType": "integer",
