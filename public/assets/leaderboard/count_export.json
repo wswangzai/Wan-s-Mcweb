@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-04-29 21:38:55",
+  "export_time": "2026-04-29 21:42:01",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -82,14 +82,23 @@
     },
     "fzsd.module.scoreboard.display.dig_count": {
       "display_slot": "sidebar.team.gray",
-      "player_count": 0,
-      "player_scores": [],
+      "player_count": 2,
+      "player_scores": [
+        {
+          "player": "wccch",
+          "score": 6
+        },
+        {
+          "player": "总挖掘数",
+          "score": 6
+        }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 2,
+        "total_score": 12,
+        "average_score": 6.0,
+        "top_player": "wccch",
+        "top_score": 6
       },
       "objective_info": {
         "RenderType": "integer",
@@ -119,7 +128,7 @@
       }
     },
     "fzsd.module.scoreboard.display.kill_count": {
-      "display_slot": "sidebar.team.red",
+      "display_slot": "sidebar.team.gold",
       "player_count": 0,
       "player_scores": [],
       "statistics": {
@@ -143,19 +152,19 @@
       "player_scores": [
         {
           "player": "wccch",
-          "score": 7
+          "score": 14
         },
         {
           "player": "总建造数",
-          "score": 7
+          "score": 14
         }
       ],
       "statistics": {
         "total_players": 2,
-        "total_score": 14,
-        "average_score": 7.0,
+        "total_score": 28,
+        "average_score": 14.0,
         "top_player": "wccch",
-        "top_score": 7
+        "top_score": 14
       },
       "objective_info": {
         "RenderType": "integer",
@@ -186,7 +195,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 2,
+    "total_players_across_objectives": 4,
     "objectives_found": [
       "fzsd.module.scoreboard.display.activation",
       "fzsd.module.scoreboard.display.aviating_distance",
@@ -198,64 +207,5 @@
       "fzsd.module.scoreboard.display.placement_count",
       "fzsd.module.scoreboard.display.trade_count"
     ]
-  },
-  "upload_info": {
-    "upload_time": "2026-04-29 21:38:59",
-    "upload_success": true,
-    "upload_method": "github",
-    "upload_api": "GitHub: wswangzai/Wan-s-Mcweb",
-    "upload_result": {
-      "content": {
-        "name": "count_export.json",
-        "path": "public/assets/leaderboard/count_export.json",
-        "sha": "f73a32ec10b5a857baba821329461215814c5fbc",
-        "size": 6235,
-        "url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/contents/public/assets/leaderboard/count_export.json?ref=main",
-        "html_url": "https://github.com/wswangzai/Wan-s-Mcweb/blob/main/public/assets/leaderboard/count_export.json",
-        "git_url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/blobs/f73a32ec10b5a857baba821329461215814c5fbc",
-        "download_url": "https://raw.githubusercontent.com/wswangzai/Wan-s-Mcweb/main/public/assets/leaderboard/count_export.json",
-        "type": "file",
-        "_links": {
-          "self": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/contents/public/assets/leaderboard/count_export.json?ref=main",
-          "git": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/blobs/f73a32ec10b5a857baba821329461215814c5fbc",
-          "html": "https://github.com/wswangzai/Wan-s-Mcweb/blob/main/public/assets/leaderboard/count_export.json"
-        }
-      },
-      "commit": {
-        "sha": "97ebadf7f3ed2b99059c97463bcef937b5682428",
-        "node_id": "C_kwDOSATc1toAKDk3ZWJhZGY3ZjNlZDJiOTkwNTljOTc0NjNiY2VmOTM3YjU2ODI0Mjg",
-        "url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/commits/97ebadf7f3ed2b99059c97463bcef937b5682428",
-        "html_url": "https://github.com/wswangzai/Wan-s-Mcweb/commit/97ebadf7f3ed2b99059c97463bcef937b5682428",
-        "author": {
-          "name": "wswangzai",
-          "email": "137507230+wswangzai@users.noreply.github.com",
-          "date": "2026-04-29T13:38:57Z"
-        },
-        "committer": {
-          "name": "wswangzai",
-          "email": "137507230+wswangzai@users.noreply.github.com",
-          "date": "2026-04-29T13:38:57Z"
-        },
-        "tree": {
-          "sha": "fbfcc79e126eb921e33d09f19cc25672d696a4a6",
-          "url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/trees/fbfcc79e126eb921e33d09f19cc25672d696a4a6"
-        },
-        "message": "Update scoreboard data - 2026-04-29 21:38:56",
-        "parents": [
-          {
-            "sha": "5603a30bb5afec22008838ba10e5ff119473bdf4",
-            "url": "https://api.github.com/repos/wswangzai/Wan-s-Mcweb/git/commits/5603a30bb5afec22008838ba10e5ff119473bdf4",
-            "html_url": "https://github.com/wswangzai/Wan-s-Mcweb/commit/5603a30bb5afec22008838ba10e5ff119473bdf4"
-          }
-        ],
-        "verification": {
-          "verified": false,
-          "reason": "unsigned",
-          "signature": null,
-          "payload": null,
-          "verified_at": null
-        }
-      }
-    }
   }
 }
