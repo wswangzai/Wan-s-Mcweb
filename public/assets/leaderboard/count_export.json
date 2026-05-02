@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-05-02 11:31:14",
+  "export_time": "2026-05-02 14:31:19",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -10,19 +10,19 @@
       "player_scores": [
         {
           "player": "eggggg",
-          "score": 2
+          "score": 4
         },
         {
           "player": "总活跃时间",
-          "score": 2
+          "score": 4
         }
       ],
       "statistics": {
         "total_players": 2,
-        "total_score": 4,
-        "average_score": 2.0,
+        "total_score": 8,
+        "average_score": 4.0,
         "top_player": "eggggg",
-        "top_score": 2
+        "top_score": 4
       },
       "objective_info": {
         "RenderType": "integer",
@@ -38,19 +38,19 @@
       "player_scores": [
         {
           "player": "eggggg",
-          "score": 5929
+          "score": 10856
         },
         {
           "player": "总飞行距离",
-          "score": 5929
+          "score": 10856
         }
       ],
       "statistics": {
         "total_players": 2,
-        "total_score": 11858,
-        "average_score": 5929.0,
+        "total_score": 21712,
+        "average_score": 10856.0,
         "top_player": "eggggg",
-        "top_score": 5929
+        "top_score": 10856
       },
       "objective_info": {
         "RenderType": "integer",
@@ -66,19 +66,19 @@
       "player_scores": [
         {
           "player": "eggggg",
-          "score": 16
+          "score": 45
         },
         {
           "player": "总受伤害数",
-          "score": 16
+          "score": 45
         }
       ],
       "statistics": {
         "total_players": 2,
-        "total_score": 32,
-        "average_score": 16.0,
+        "total_score": 90,
+        "average_score": 45.0,
         "top_player": "eggggg",
-        "top_score": 16
+        "top_score": 45
       },
       "objective_info": {
         "RenderType": "integer",
@@ -113,11 +113,11 @@
       "player_scores": [
         {
           "player": "总挖掘数",
-          "score": 146
+          "score": 2380
         },
         {
           "player": "eggggg",
-          "score": 140
+          "score": 2374
         },
         {
           "player": "wccch",
@@ -126,10 +126,10 @@
       ],
       "statistics": {
         "total_players": 3,
-        "total_score": 292,
-        "average_score": 97.33,
+        "total_score": 4760,
+        "average_score": 1586.67,
         "top_player": "总挖掘数",
-        "top_score": 146
+        "top_score": 2380
       },
       "objective_info": {
         "RenderType": "integer",
@@ -160,14 +160,23 @@
     },
     "fzsd.module.scoreboard.display.kill_count": {
       "display_slot": "sidebar.team.red",
-      "player_count": 0,
-      "player_scores": [],
+      "player_count": 2,
+      "player_scores": [
+        {
+          "player": "eggggg",
+          "score": 173
+        },
+        {
+          "player": "总击杀数",
+          "score": 173
+        }
+      ],
       "statistics": {
-        "total_players": 0,
-        "total_score": 0,
-        "average_score": 0,
-        "top_player": null,
-        "top_score": 0
+        "total_players": 2,
+        "total_score": 346,
+        "average_score": 173.0,
+        "top_player": "eggggg",
+        "top_score": 173
       },
       "objective_info": {
         "RenderType": "integer",
@@ -183,11 +192,11 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 715
+          "score": 1306
         },
         {
           "player": "eggggg",
-          "score": 701
+          "score": 1292
         },
         {
           "player": "wccch",
@@ -196,10 +205,10 @@
       ],
       "statistics": {
         "total_players": 3,
-        "total_score": 1430,
-        "average_score": 476.67,
+        "total_score": 2612,
+        "average_score": 870.67,
         "top_player": "总建造数",
-        "top_score": 715
+        "top_score": 1306
       },
       "objective_info": {
         "RenderType": "integer",
@@ -230,7 +239,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 12,
+    "total_players_across_objectives": 14,
     "objectives_found": [
       "fzsd.module.scoreboard.display.activation",
       "fzsd.module.scoreboard.display.aviating_distance",
