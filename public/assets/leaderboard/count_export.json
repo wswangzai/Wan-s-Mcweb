@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-05-03 21:31:59",
+  "export_time": "2026-05-04 00:32:11",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -10,19 +10,19 @@
       "player_scores": [
         {
           "player": "eggggg",
-          "score": 12
+          "score": 13
         },
         {
           "player": "总活跃时间",
-          "score": 12
+          "score": 13
         }
       ],
       "statistics": {
         "total_players": 2,
-        "total_score": 24,
-        "average_score": 12.0,
+        "total_score": 26,
+        "average_score": 13.0,
         "top_player": "eggggg",
-        "top_score": 12
+        "top_score": 13
       },
       "objective_info": {
         "RenderType": "integer",
@@ -38,19 +38,19 @@
       "player_scores": [
         {
           "player": "eggggg",
-          "score": 27020
+          "score": 31761
         },
         {
           "player": "总飞行距离",
-          "score": 27020
+          "score": 31761
         }
       ],
       "statistics": {
         "total_players": 2,
-        "total_score": 54040,
-        "average_score": 27020.0,
+        "total_score": 63522,
+        "average_score": 31761.0,
         "top_player": "eggggg",
-        "top_score": 27020
+        "top_score": 31761
       },
       "objective_info": {
         "RenderType": "integer",
@@ -66,19 +66,19 @@
       "player_scores": [
         {
           "player": "eggggg",
-          "score": 181
+          "score": 251
         },
         {
           "player": "总受伤害数",
-          "score": 181
+          "score": 251
         }
       ],
       "statistics": {
         "total_players": 2,
-        "total_score": 362,
-        "average_score": 181.0,
+        "total_score": 502,
+        "average_score": 251.0,
         "top_player": "eggggg",
-        "top_score": 181
+        "top_score": 251
       },
       "objective_info": {
         "RenderType": "integer",
@@ -94,19 +94,19 @@
       "player_scores": [
         {
           "player": "eggggg",
-          "score": 3
+          "score": 5
         },
         {
           "player": "总死亡数",
-          "score": 3
+          "score": 5
         }
       ],
       "statistics": {
         "total_players": 2,
-        "total_score": 6,
-        "average_score": 3.0,
+        "total_score": 10,
+        "average_score": 5.0,
         "top_player": "eggggg",
-        "top_score": 3
+        "top_score": 5
       },
       "objective_info": {
         "RenderType": "integer",
@@ -122,11 +122,11 @@
       "player_scores": [
         {
           "player": "总挖掘数",
-          "score": 5867
+          "score": 5999
         },
         {
           "player": "eggggg",
-          "score": 5861
+          "score": 5993
         },
         {
           "player": "wccch",
@@ -135,10 +135,10 @@
       ],
       "statistics": {
         "total_players": 3,
-        "total_score": 11734,
-        "average_score": 3911.33,
+        "total_score": 11998,
+        "average_score": 3999.33,
         "top_player": "总挖掘数",
-        "top_score": 5867
+        "top_score": 5999
       },
       "objective_info": {
         "RenderType": "integer",
@@ -201,11 +201,11 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 5348
+          "score": 6758
         },
         {
           "player": "eggggg",
-          "score": 5334
+          "score": 6744
         },
         {
           "player": "wccch",
@@ -214,10 +214,10 @@
       ],
       "statistics": {
         "total_players": 3,
-        "total_score": 10696,
-        "average_score": 3565.33,
+        "total_score": 13516,
+        "average_score": 4505.33,
         "top_player": "总建造数",
-        "top_score": 5348
+        "top_score": 6758
       },
       "objective_info": {
         "RenderType": "integer",
