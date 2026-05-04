@@ -1,5 +1,5 @@
 {
-  "export_time": "2026-05-04 12:33:05",
+  "export_time": "2026-05-04 15:33:09",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
@@ -10,19 +10,19 @@
       "player_scores": [
         {
           "player": "eggggg",
-          "score": 13
+          "score": 15
         },
         {
           "player": "总活跃时间",
-          "score": 13
+          "score": 15
         }
       ],
       "statistics": {
         "total_players": 2,
-        "total_score": 26,
-        "average_score": 13.0,
+        "total_score": 30,
+        "average_score": 15.0,
         "top_player": "eggggg",
-        "top_score": 13
+        "top_score": 15
       },
       "objective_info": {
         "RenderType": "integer",
@@ -38,19 +38,19 @@
       "player_scores": [
         {
           "player": "eggggg",
-          "score": 31761
+          "score": 40155
         },
         {
           "player": "总飞行距离",
-          "score": 31761
+          "score": 40155
         }
       ],
       "statistics": {
         "total_players": 2,
-        "total_score": 63522,
-        "average_score": 31761.0,
+        "total_score": 80310,
+        "average_score": 40155.0,
         "top_player": "eggggg",
-        "top_score": 31761
+        "top_score": 40155
       },
       "objective_info": {
         "RenderType": "integer",
@@ -66,19 +66,19 @@
       "player_scores": [
         {
           "player": "eggggg",
-          "score": 251
+          "score": 272
         },
         {
           "player": "总受伤害数",
-          "score": 251
+          "score": 272
         }
       ],
       "statistics": {
         "total_players": 2,
-        "total_score": 502,
-        "average_score": 251.0,
+        "total_score": 544,
+        "average_score": 272.0,
         "top_player": "eggggg",
-        "top_score": 251
+        "top_score": 272
       },
       "objective_info": {
         "RenderType": "integer",
@@ -94,19 +94,19 @@
       "player_scores": [
         {
           "player": "eggggg",
-          "score": 5
+          "score": 3
         },
         {
           "player": "总死亡数",
-          "score": 5
+          "score": 3
         }
       ],
       "statistics": {
         "total_players": 2,
-        "total_score": 10,
-        "average_score": 5.0,
+        "total_score": 6,
+        "average_score": 3.0,
         "top_player": "eggggg",
-        "top_score": 5
+        "top_score": 3
       },
       "objective_info": {
         "RenderType": "integer",
@@ -122,11 +122,11 @@
       "player_scores": [
         {
           "player": "总挖掘数",
-          "score": 5999
+          "score": 6652
         },
         {
           "player": "eggggg",
-          "score": 5993
+          "score": 6646
         },
         {
           "player": "wccch",
@@ -135,10 +135,10 @@
       ],
       "statistics": {
         "total_players": 3,
-        "total_score": 11998,
-        "average_score": 3999.33,
+        "total_score": 13304,
+        "average_score": 4434.67,
         "top_player": "总挖掘数",
-        "top_score": 5999
+        "top_score": 6652
       },
       "objective_info": {
         "RenderType": "integer",
@@ -168,24 +168,24 @@
       }
     },
     "fzsd.module.scoreboard.display.kill_count": {
-      "display_slot": "sidebar.team.gold",
+      "display_slot": "sidebar.team.red",
       "player_count": 2,
       "player_scores": [
         {
           "player": "eggggg",
-          "score": 215
+          "score": 219
         },
         {
           "player": "总击杀数",
-          "score": 215
+          "score": 219
         }
       ],
       "statistics": {
         "total_players": 2,
-        "total_score": 430,
-        "average_score": 215.0,
+        "total_score": 438,
+        "average_score": 219.0,
         "top_player": "eggggg",
-        "top_score": 215
+        "top_score": 219
       },
       "objective_info": {
         "RenderType": "integer",
@@ -201,11 +201,11 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 6758
+          "score": 9108
         },
         {
           "player": "eggggg",
-          "score": 6744
+          "score": 9094
         },
         {
           "player": "wccch",
@@ -214,10 +214,10 @@
       ],
       "statistics": {
         "total_players": 3,
-        "total_score": 13516,
-        "average_score": 4505.33,
+        "total_score": 18216,
+        "average_score": 6072.0,
         "top_player": "总建造数",
-        "top_score": 6758
+        "top_score": 9108
       },
       "objective_info": {
         "RenderType": "integer",
