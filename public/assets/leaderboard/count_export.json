@@ -1,28 +1,32 @@
 {
-  "export_time": "2026-05-05 10:54:13",
+  "export_time": "2026-05-05 13:54:46",
   "source_file": "scoreboard.dat",
   "local_copy": "cache/scoreboard_copy.dat",
   "total_objectives": 9,
   "objectives": {
     "fzsd.module.scoreboard.display.activation": {
       "display_slot": "sidebar.team.aqua",
-      "player_count": 2,
+      "player_count": 3,
       "player_scores": [
         {
-          "player": "eggggg",
-          "score": 17
+          "player": "总活跃时间",
+          "score": 19
         },
         {
-          "player": "总活跃时间",
-          "score": 17
+          "player": "eggggg",
+          "score": 18
+        },
+        {
+          "player": "wccch",
+          "score": 1
         }
       ],
       "statistics": {
-        "total_players": 2,
-        "total_score": 34,
-        "average_score": 17.0,
-        "top_player": "eggggg",
-        "top_score": 17
+        "total_players": 3,
+        "total_score": 38,
+        "average_score": 12.67,
+        "top_player": "总活跃时间",
+        "top_score": 19
       },
       "objective_info": {
         "RenderType": "integer",
@@ -38,23 +42,23 @@
       "player_scores": [
         {
           "player": "总飞行距离",
-          "score": 46979
+          "score": 52209
         },
         {
           "player": "eggggg",
-          "score": 46706
+          "score": 50399
         },
         {
           "player": "wccch",
-          "score": 273
+          "score": 1810
         }
       ],
       "statistics": {
         "total_players": 3,
-        "total_score": 93958,
-        "average_score": 31319.33,
+        "total_score": 104418,
+        "average_score": 34806.0,
         "top_player": "总飞行距离",
-        "top_score": 46979
+        "top_score": 52209
       },
       "objective_info": {
         "RenderType": "integer",
@@ -70,23 +74,23 @@
       "player_scores": [
         {
           "player": "总受伤害数",
-          "score": 362
+          "score": 381
         },
         {
           "player": "eggggg",
-          "score": 359
+          "score": 371
         },
         {
           "player": "wccch",
-          "score": 3
+          "score": 10
         }
       ],
       "statistics": {
         "total_players": 3,
-        "total_score": 724,
-        "average_score": 241.33,
+        "total_score": 762,
+        "average_score": 254.0,
         "top_player": "总受伤害数",
-        "top_score": 362
+        "top_score": 381
       },
       "objective_info": {
         "RenderType": "integer",
@@ -130,23 +134,23 @@
       "player_scores": [
         {
           "player": "总挖掘数",
-          "score": 9347
+          "score": 9426
         },
         {
           "player": "eggggg",
-          "score": 9336
+          "score": 9392
         },
         {
           "player": "wccch",
-          "score": 11
+          "score": 34
         }
       ],
       "statistics": {
         "total_players": 3,
-        "total_score": 18694,
-        "average_score": 6231.33,
+        "total_score": 18852,
+        "average_score": 6284.0,
         "top_player": "总挖掘数",
-        "top_score": 9347
+        "top_score": 9426
       },
       "objective_info": {
         "RenderType": "integer",
@@ -157,7 +161,7 @@
       }
     },
     "fzsd.module.scoreboard.display.fishing_count": {
-      "display_slot": "sidebar.team.gold",
+      "display_slot": "sidebar.team.blue",
       "player_count": 0,
       "player_scores": [],
       "statistics": {
@@ -181,19 +185,19 @@
       "player_scores": [
         {
           "player": "eggggg",
-          "score": 352
+          "score": 353
         },
         {
           "player": "总击杀数",
-          "score": 352
+          "score": 353
         }
       ],
       "statistics": {
         "total_players": 2,
-        "total_score": 704,
-        "average_score": 352.0,
+        "total_score": 706,
+        "average_score": 353.0,
         "top_player": "eggggg",
-        "top_score": 352
+        "top_score": 353
       },
       "objective_info": {
         "RenderType": "integer",
@@ -209,23 +213,23 @@
       "player_scores": [
         {
           "player": "总建造数",
-          "score": 9569
+          "score": 9719
         },
         {
           "player": "eggggg",
-          "score": 9522
+          "score": 9645
         },
         {
           "player": "wccch",
-          "score": 47
+          "score": 74
         }
       ],
       "statistics": {
         "total_players": 3,
-        "total_score": 19138,
-        "average_score": 6379.33,
+        "total_score": 19438,
+        "average_score": 6479.33,
         "top_player": "总建造数",
-        "top_score": 9569
+        "top_score": 9719
       },
       "objective_info": {
         "RenderType": "integer",
@@ -256,7 +260,7 @@
     }
   },
   "overall_statistics": {
-    "total_players_across_objectives": 18,
+    "total_players_across_objectives": 19,
     "objectives_found": [
       "fzsd.module.scoreboard.display.activation",
       "fzsd.module.scoreboard.display.aviating_distance",
